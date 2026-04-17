@@ -1,0 +1,205 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#1B1B1A",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#000000",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FAA500",
+            "yellow": "#666666",
+            "yellow-button": "#FAA500",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#ffea00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6516"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6517",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino De La Rochelle"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6518",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino De La Rochelle"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino De La Rochelle",
+                    "title": "Casino Barrière La Rochelle : jeux, restauration et divertissement face à l’océan",
+                    "description": "Découvrez notre véritable casino terrestre à La Rochelle avec 150 machines à sous, 37 jeux électroniques, 5 jeux de table, une restauration avec vue sur l’océan, un sports bar et les avantages Le Carré VIP.",
+                    "canonical": "casino-de-la-rochelle.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6519",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-la-rochelle.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6520"
+                },
+                "hero": {
+                    "title": "Casino Barrière La Rochelle : jeux, restaurant et soirées face à l’océan Atlantique",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6521",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6522",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Adresse premium en bord d’océan",
+                        "150 machines à sous et variété numérique",
+                        "Restauration avec vue mer et buffet",
+                        "Sports bar avec ambiance grand écran",
+                        "Avantages VIP pour visites régulières"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino De La Rochelle App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6523",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino De La Rochelle App",
+                    "mobileGooglePlayImageTitle": "Casino De La Rochelle App",
+                    "mobileIosImageTitle": "Casino De La Rochelle App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "History",
+                        "description1": "First paragraph of history",
+                        "items": [
+                            "History item 1",
+                            "History item 2"
+                        ],
+                        "description2": "Second paragraph of history",
+                        "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Third paragraph of history"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Caractéristiques du casino",
+                        "description": "<p>Le principal atout de positionnement de notre casino est la façon dont il associe naturellement le jeu et l’attrait de destination. Un emplacement en front de mer sur l’Allée du Mail transforme une simple visite de casino en une sortie de loisirs plus complète, car nos visiteurs arrivent dans une partie de La Rochelle qui possède déjà une forte valeur visuelle et sociale.<\/p>\n<br>\n<p>Ce cadre est commercialement important, car le public d’un casino terrestre ne choisit presque jamais un établissement uniquement pour ses jeux. Il compare aussi l’ambiance, le décor, les options de restauration et la facilité à prolonger la visite, et nos espaces de restauration avec vue sur l’océan répondent clairement à cette logique de décision élargie.<\/p>\n<br>\n<p>Notre mix de jeux donne également à l’établissement un profil pratique solide. Avec 150 machines à sous, 37 jeux électroniques et 5 jeux de table, nous répondons aux attentes des joueurs occasionnels, des utilisateurs orientés digital et des visiteurs qui apprécient encore la structure des tables en direct, sans compromis sur la variété.<\/p>\n<br>\n<p>La sélection de jeux confirmée renforce encore cette flexibilité. Ultimate Poker, Blackjack, La Boule, Blackjack Dames de Coeur, Roulette Anglaise Électronique et Blackjack électronique créent un floor plus riche qu’un établissement centré uniquement sur les slots, ce qui compte pour les visiteurs qui recherchent différents niveaux de rythme, d’interaction et de style de session dans un seul lieu.<\/p>\n<br>\n<p>La restauration et les boissons constituent un autre point fort important de notre offre sur place. Le Café Barrière s’articule autour d’une formule buffet et d’une vue exceptionnelle sur l’océan, tandis que le Café des Sports apporte un format plus décontracté et énergique, directement connecté aux retransmissions sportives en direct et à l’ambiance du casino.<\/p>\n<br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    <tr>\n      <th style=\"width:34%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Caractéristique<\/th>\n      <th style=\"width:66%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Détails confirmés<\/th>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Emplacement<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">15 Allée du Mail, 17000 La Rochelle, dans un environnement en bord d’océan<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Floor de jeu<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">150 machines à sous, 37 jeux électroniques, 5 jeux de table<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Jeux de table<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Ultimate Poker, Blackjack, La Boule, Blackjack Dames de Coeur<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Jeux électroniques<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Roulette Anglaise Électronique et Blackjack électronique<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Restaurant<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Café Barrière avec buffet et vue exceptionnelle sur l’océan<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Bar<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Café des Sports avec sport en direct sur 18 écrans, dont 1 écran géant<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Divertissement<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Grands jeux, animations, concerts et soirées à thème<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Confort visiteurs<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Terrasse, parking, Wi-Fi, climatisation, accessibilité PMR et espaces privatisables<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Programme de fidélité<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Le Carré VIP avec accès privilégiés, invitations à des événements privés et offres spéciales<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Code vestimentaire<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Tenue correcte exigée ; autres détails d’entrée non précisés<\/td>\n    <\/tr>\n  <\/table>\n<\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Dépôts et retraits",
+                        "description": "<br><p>Dans un véritable casino terrestre, les informations liées aux paiements influencent la confiance avant même la visite. Les visiteurs ne considèrent pas les dépôts et les retraits comme un simple sujet technique isolé ; ils les interprètent comme une partie de la promesse globale de service, au même titre que les conditions d’accès, la qualité du lieu et la fiabilité de l’exploitation sur place.<\/p>\n<br>\n<p>Pour cette raison, la précision compte davantage que la quantité. Lorsque les canaux exacts de dépôt, les options de retrait, les délais de traitement ou les frais ne sont pas confirmés dans les sources officielles disponibles, l’approche la plus crédible consiste à les marquer clairement comme not specified plutôt qu’à combler le vide par des suppositions.<\/p>\n<br>\n<p>Cette logique fondée sur la confiance est particulièrement importante dans la comparaison entre établissements. De nombreux visiteurs de casino examinent la mécanique des paiements dans le cadre de leur planification pratique, mais ils lisent aussi la clarté transactionnelle comme un signal de la manière dont une marque communique plus largement ses détails de service.<\/p>\n<br>\n<p>Même sans détail public sur les mécanismes spécifiques de dépôt et de retrait, notre profil opérationnel global crée déjà des signaux de confiance positifs. Un emplacement clairement identifié, une offre de jeu structurée, une hospitality solide et des informations définies sur la tenue requise permettent à nos visiteurs d’évaluer le lieu avec moins d’incertitudes autour de la visite elle-même.<\/p>\n<br>\n<p>Notre écosystème hospitality soutient également un meilleur confort budgétaire. Comme nos visiteurs peuvent combiner jeu, buffet, bar, terrasse et animations dans un même lieu, la visite devient plus facile à organiser et à budgéter comme une expérience de loisirs unifiée plutôt qu’une soirée fragmentée.<\/p>\n<br>\n<p>Le Carré VIP ajoute une autre dimension de valeur transactionnelle, même si les canaux de paiement formels ne sont pas publiés. Les offres exclusives, les accès privilégiés et les invitations à des événements privés renforcent le retour perçu sur les visites répétées et rendent l’ensemble du parcours client plus valorisant.<\/p>\n<br>\n<p>L’infrastructure de service contribue elle aussi à la perception de praticité. Parking, accessibilité PMR, Wi-Fi, climatisation et espaces privatisables renforcent l’image d’un établissement professionnellement organisé, ce qui compte lorsque les visiteurs évaluent où consacrer leur temps et leur budget sur place.<\/p>\n<br>\n<p>Dans les limites des informations actuellement vérifiées, la déclaration la plus solide que nous puissions faire sur les dépôts et les retraits est que nous présentons uniquement ce qui est confirmé de manière responsable. Cela maintient cette section alignée avec un contenu SEO factuel et avec les standards de crédibilité attendus par les utilisateurs sérieux à la recherche d’informations sur un vrai casino.<\/p><br><div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    <tr>\n      <th style=\"width:34%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Caractéristique<\/th>\n      <th style=\"width:66%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Détails confirmés<\/th>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Clarté des paiements<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Les informations sur les dépôts et les retraits sont présentées uniquement lorsqu’elles sont confirmées, ce qui renforce la confiance avant la visite.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Méthodes de dépôt<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Non spécifiées dans les sources officielles vérifiées ; ce statut est indiqué clairement afin d’éviter toute supposition.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Options de retrait<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Non spécifiées dans les informations actuellement confirmées ; la section reste alignée avec une approche fondée sur les faits.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Délais et frais<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Aucun délai de traitement ni frais de transaction ne sont publiquement confirmés dans les sources disponibles.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Signal de confiance global<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Un emplacement clairement identifié, une offre de jeu structurée et une communication de service cohérente créent un cadre rassurant pour les visiteurs.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Hospitality intégrée<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Jeu, buffet, bar, terrasse et animations sont réunis dans un même lieu, ce qui facilite l’organisation de la visite et améliore le confort budgétaire.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Valeur de revisite<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Le Carré VIP ajoute des offres exclusives, des accès privilégiés et des invitations à des événements privés, renforçant la valeur perçue des visites répétées.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Confort et praticité<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Parking, accessibilité PMR, Wi-Fi, climatisation et espaces privatisables renforcent l’image d’un établissement professionnellement organisé.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Conditions d’accès<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Les informations disponibles sur la tenue requise et sur le cadre de visite aident les visiteurs à évaluer le lieu avec moins d’incertitudes pratiques.<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Approche SEO factuelle<\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">La section transactionnelle reste limitée aux éléments confirmés de manière responsable, conformément aux attentes de crédibilité pour un vrai casino terrestre.<\/td>\n    <\/tr>\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe le Casino de La Rochelle ?",
+                            "answer": "Nous sommes situés au 15 Allée du Mail, 17000 La Rochelle."
+                        },
+                        {
+                            "title": "Quels jeux nos visiteurs peuvent-ils trouver dans notre casino ?",
+                            "answer": "Nous proposons 150 machines à sous, 37 jeux électroniques et 5 jeux de table, dont Ultimate Poker, Blackjack, La Boule, Blackjack Dames de Coeur, Roulette Anglaise Électronique et Blackjack électronique."
+                        },
+                        {
+                            "title": "Notre casino dispose-t-il d’un restaurant et d’un bar ?",
+                            "answer": "Oui. Nos visiteurs peuvent profiter du Café Barrière et du Café des Sports pendant leur visite."
+                        },
+                        {
+                            "title": "Qu’est-ce qui distingue notre offre food and drink ?",
+                            "answer": "Le Café Barrière associe buffet et vue exceptionnelle sur l’océan, tandis que le Café des Sports propose le sport en direct sur 18 écrans, dont 1 écran géant."
+                        },
+                        {
+                            "title": "Proposons-nous des avantages de fidélité ?",
+                            "answer": "Oui. Le Carré VIP comprend des accès privilégiés, des invitations à des événements privés et des offres spéciales."
+                        },
+                        {
+                            "title": "Nos visiteurs ont-ils accès à des services de confort sur place ?",
+                            "answer": "Oui. Les services confirmés incluent la terrasse, le parking, le Wi-Fi, la climatisation, l’accessibilité PMR et des espaces pour événements privés."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-de-la-rochelle.com/
+Sitemap: https://casino-de-la-rochelle.com/sitemap.xml
