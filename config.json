@@ -140,19 +140,20 @@
                 },
                 "about": {
                     "history": {
-                        "title": "History",
-                        "description1": "First paragraph of history",
+                        "title": "À propos du casino",
+                        "description1": "",
                         "items": [
-                            "History item 1",
-                            "History item 2"
+                            "Nous accueillons nos clients tous les jours de 9 h 00 à 3 h 00.",
+                            "Le Café des Sports diffuse les grands matchs en direct sur 18 écrans, dont un écran géant.",
+                            "Notre brunch du dimanche au Café Barrière est proposé chaque dimanche de 11 h 30 à 15 h 00."
                         ],
-                        "description2": "Second paragraph of history",
-                        "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                        "description2": "Nous accueillons nos clients au Casino Barrière La Rochelle, situé au 15 Allée du Mail à La Rochelle. Notre casino est ouvert tous les jours de 9 h 00 à 3 h 00, en réunissant le jeu, la restauration, le divertissement et les services aux clients dans une destination balnéaire bien située.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6646",
                         "imageSizeModifier": 0,
                         "imageYModifier": 0,
                         "imageXModifier": 0,
-                        "imageAlt": "History",
-                        "description3": "Third paragraph of history"
+                        "imageAlt": "casino-de-la-rochelle",
+                        "description3": "Notre offre de jeux est pensée pour proposer variété et choix à nos clients. Nous mettons à leur disposition des machines à sous classiques, des machines à sous modernes, l’Ultimate Poker, le Blackjack, la Boule, le Blackjack Dames de coeur, la Roulette anglaise électronique et le Blackjack électronique, pour une expérience complète de casino terrestre à chaque visite.\n\nNous prolongeons également l’expérience au-delà de l’espace de jeu. Au Café Barrière, nos clients peuvent profiter du déjeuner et du dîner, d’options buffet et d’une vue panoramique sur l’océan, tandis que le Chef Philippe Théron propose une cuisine inspirée de la terre et de la mer. Le Café des Sports ajoute une dimension conviviale avec la diffusion de grands événements sportifs en direct, une vaste terrasse et une atmosphère détendue de bar.\n\nL’expérience dans notre casino s’appuie aussi sur des avantages complémentaires pour nos clients réguliers et sur des informations pratiques claires. Grâce au Carré VIP, nous proposons des avantages exclusifs, un accès privilégié, des invitations à des événements privés et des offres spéciales, tandis que notre établissement partage également des indications pratiques sur la tenue exigée et sur le jeu responsable."
                     }
                 },
                 "custom": {
